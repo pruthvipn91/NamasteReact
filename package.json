@@ -2,7 +2,6 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "This is namaste React",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -20,6 +19,11 @@
   },
   "homepage": "https://github.com/pruthvipn91/NamasteReact#readme",
   "devDependencies": {
-    "parcel": "^2.13.3"
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
